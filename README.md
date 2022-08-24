@@ -5,7 +5,7 @@ It was done in two parts:
 - Sample id
 - Predicted label (+1,-1)
 - Predicted value returned by the equation\
-also reporting the following:
+also reported the following in [scores](scores):
 - Overall AUC ROC
 - Sensitivity and Specificity
 - F1 score
