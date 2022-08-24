@@ -1,0 +1,30 @@
+When threshold=0
+roc_auc_score:  0.656060606060606
+F1 Score:  0.7603305785123967
+Sensitivity:  0.7666666666666667
+Specificity:  0.5454545454545454
+
+When threshold=0.5
+roc_auc_score:  0.678030303030303
+F1 Score:  0.7627118644067795
+Sensitivity:  0.75
+Specificity:  0.6060606060606061
+
+When threshold=-0.5
+roc_auc_score:  0.6507575757575758
+F1 Score:  0.7777777777777778
+Sensitivity:  0.8166666666666667
+Specificity:  0.48484848484848486
+
+When threshold=-0.135100
+roc_auc_score:  0.6409090909090909
+F1 Score:  0.7540983606557377
+Sensitivity:  0.7666666666666667
+Specificity:  0.5151515151515151
+
+When threshold=1.163197
+roc_auc_score:  0.671969696969697
+F1 Score:  0.6981132075471699
+Sensitivity:  0.6166666666666667
+Specificity:  0.7272727272727273
+
