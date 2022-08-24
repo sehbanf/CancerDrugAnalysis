@@ -4,8 +4,8 @@ It was done in two parts:
 1) Understanding the Symbolic Regression using a small dataset [data.txt](data.txt) and storing the following things in a dataframe [Extracted_data.csv](Extracted_data.csv): 
 - Sample id
 - Predicted label (+1,-1)
-- Predicted value returned by the equation 
-also reporting the following:
+- Predicted value returned by the equation\
+also reporting the following:\
 - Overall AUC ROC
 - Sensitivity and Specificity
 - F1 score
