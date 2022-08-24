@@ -1,7 +1,7 @@
 # CancerDrugAnalysis
 This study was a part of the small project titled "Integration and analysis of cancer drug response data" under Dr. Debarka Sengupta.
 It was done in two parts:
-1) Understanding the Symbolic Regression using a small dataset(data.txt) and storing the following things in a dataframe(Extracted_data.csv): 
+1) Understanding the Symbolic Regression using a small dataset[a relative link](data.txt) and storing the following things in a dataframe(Extracted_data.csv): 
 - Sample id
 - Predicted label (+1,-1)
 - Predicted value returned by the equation 
