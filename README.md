@@ -11,5 +11,5 @@ also reporting the following:
 - F1 score
 The code can be seen in the [Copy_of_Ip](Copy_of_Ip.ipynb) file.
 2) The main task of Cancer drug Analysis
-The goal was to predict the viability of Combinational drugs for cancer treatment. We worked on the cancer drug response dataset [An Unbiased Oncology Compound Screen to Identify Novel Combination Strategies | Molecular Cancer Therapeutics](An Unbiased Oncology Compound Screen to Identify Novel Combination Strategies | Molecular Cancer Therapeutics). 
+The goal was to predict the viability of Combinational drugs for cancer treatment. We worked on the cancer drug response dataset [An Unbiased Oncology Compound Screen to Identify Novel Combination Strategies | Molecular Cancer Therapeutics](https://aacrjournals.org/mct/article/15/6/1155/92159/An-Unbiased-Oncology-Compound-Screen-to-Identify). 
 It was a regression task for which we had to use multiple strategies such as the classical regression pipeline as well as the more recent, symbolic regression. We had to use our designed modules in gplearn library, mostly dealing with genetic programming. This particular task differsfrom other ML paradigms as the metric used are RMSE, MSE & R2 scores.
