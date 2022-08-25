@@ -1,5 +1,5 @@
 # CancerDrugAnalysis
-This study was a part of the small project titled "Integration and analysis of cancer drug response data" under Dr. Debarka Sengupta.
+This study was a part of a small project titled "Integration and analysis of cancer drug response data" under Dr. Debarka Sengupta.
 It was done in two parts:
 1) Understanding the Symbolic Regression using a small dataset [data.txt](data.txt) and storing the following things in a dataframe [Extracted_data.csv](Extracted_data.csv): 
 - Sample id
@@ -8,7 +8,7 @@ It was done in two parts:
 also reported the following in [scores](scores):
 - Overall AUC ROC
 - Sensitivity and Specificity
-- F1 score
+- F1 score\
 The code can be seen in the [Copy_of_Ip](Copy_of_Ip.ipynb) file.
 2) The main task of Cancer drug Analysis
 The goal was to predict the viability of Combinational drugs for cancer treatment. We worked on the cancer drug response dataset [An Unbiased Oncology Compound Screen to Identify Novel Combination Strategies | Molecular Cancer Therapeutics](https://aacrjournals.org/mct/article/15/6/1155/92159/An-Unbiased-Oncology-Compound-Screen-to-Identify). 
