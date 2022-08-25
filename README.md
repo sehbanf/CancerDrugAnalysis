@@ -1,4 +1,4 @@
-# CancerDrugAnalysis
+## CancerDrugAnalysis
 This study was a part of a small project titled "Integration and analysis of cancer drug response data" under Dr. Debarka Sengupta.
 It was done in two parts:
 1) Understanding the Symbolic Regression using a small dataset [data.txt](data.txt) and storing the following things in a dataframe [Extracted_data.csv](Extracted_data.csv): 
